@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+Welcome to my GitHub profile! I'm Alena Bobyleva, a dedicated and curious Computer Science and Artificial Intelligence student with a strong passion for data analysis and game development. Currently pursuing my Bachelor’s degree, I am keen on leveraging my skills to make a tangible impact in the world.
+
+<br/><br/>
+### Get in Touch
+Feel free to connect with me via:
+
+[LinkedIn](https://www.linkedin.com/in/alena-bobyleva/)
+
+Email: bobyleva0523@gmail.com
 <!--
 **AlisMori/AlisMori** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
