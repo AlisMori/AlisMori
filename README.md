@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile! I'm Alena Bobyleva, a dedicated and curious Computer Science and Artificial Intelligence student with a strong passion for data analysis and game development. Currently pursuing my Bachelor’s degree, I am keen on leveraging my skills to make a tangible impact in the world.
+Welcome to my GitHub profile! I'm Alena Bobyleva, a dedicated and curious Computer Science and Artificial Intelligence student with a strong passion for data analysis. Currently pursuing my Bachelor’s degree, I am keen on leveraging my skills to make a tangible impact in the world.
 
 <br/><br/>
 ### Get in Touch
